@@ -1,1 +1,1 @@
-My first readme in zero day ALX
+My first readme in zero day ALX is cool
