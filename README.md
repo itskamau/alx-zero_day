@@ -1,1 +1,1 @@
-My first readme in zero day ALX is cool asf
+My first readme in zero day ALX is updated
